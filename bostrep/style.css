@@ -1,0 +1,45 @@
+.jumbotron {
+  padding-top: 3rem;
+  background-color: #fdfcfc;
+}
+
+.latarOrange {
+  background-color: #ff4800;
+}
+
+#caraKerja {
+  background-color: #fdfcfc;
+}
+
+#caraKerja h2 {
+  margin-top: 1rem;
+  margin-bottom: 3rem;
+}
+
+#project h2 {
+  margin-top: 1rem;
+  margin-bottom: 3rem;
+}
+
+.card {
+  margin-bottom: 1rem;
+}
+
+.card img{
+  object-fit: cover;
+  object-position: center;
+  margin-top: 1rem;
+  width: 250px;
+  height: 250px;
+  border-radius: 8px;
+}
+
+input {
+  margin-bottom: 0.9rem;
+}
+
+.imgFooter{
+  width: 2.5rem;
+  height: 2.5rem;
+  margin-right: 1rem;
+}
